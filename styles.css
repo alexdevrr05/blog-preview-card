@@ -98,6 +98,7 @@ img {
 .card-body p {
     font-family: mainFont;
     color: #656464;
+    font-size: 17px;
 }
 
 .footer {
